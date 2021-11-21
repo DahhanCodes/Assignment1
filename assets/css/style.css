@@ -51,7 +51,7 @@ header p {
     font-size: 16px;
 }
 /*End Header Styling*/
-/*Adding Background */
+/*Adding hero image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +60,7 @@ header p {
     background-size: cover;
     background-position: center;
 }
+/*Adding pre-copnfigured float styling*/
 
 .float-left {
     float: left;
@@ -70,7 +71,7 @@ header p {
     float: right;
     margin-left: 25px;
 }
-
+/*styling page content*/
 .content {
     width: 75%;
     display: inline-block;
@@ -215,14 +216,14 @@ font-size: 19px;
     font-size: 40px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 
